@@ -10,7 +10,7 @@ import { delay, first, tap } from 'rxjs';
 
 export class CoursesService {
   //end-point URL :
-  private readonly API = '/assets/courses.json';
+  private readonly API = '/asets/courses.json';
 
 //Chamada Ajax - chamada Assicrona para o servidor
 //- Injeção de dependencia
